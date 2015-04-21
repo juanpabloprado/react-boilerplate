@@ -10,7 +10,7 @@ args=("$@")
 #echo arguments to the shell
 
 # clone the repo using project name
-git clone https://github.com/davideast/react-boilerplate ${args[0]}
+git clone https://github.com/juanpabloprado/react-boilerplate ${args[0]}
 
 # cd into folder
 cd ${args[0]}
